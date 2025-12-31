@@ -1,5 +1,10 @@
 # 💫 About Me:
-Building real-world full-stack web applications using the MERN stack and improving backend performance.<br>Open-source projects, React-based applications, and beginner-to-intermediate level web development projects.<br>Strengthening DSA concepts, backend architecture, and writing clean, scalable code.<br>Advanced JavaScript, React, Node.js, MongoDB, REST APIs, and placement-oriented problem solving.<br>JavaScript, React, backend development, MongoDB, Git/GitHub, and project structuring.<br>I believe consistency beats talent, and I code every day to get better
+🚀 Building real-world full-stack web applications using the MERN stack and improving backend performance.<br>
+🤝 Open-source projects, React-based applications, and beginner-to-intermediate level web development projects.<br>
+📈 Strengthening DSA concepts, backend architecture, and writing clean, scalable code.<br>
+📚 Advanced JavaScript, React, Node.js, MongoDB, REST APIs, and placement-oriented problem solving.<br>
+💬 JavaScript, React, backend development, MongoDB, Git/GitHub, and project structuring.<br>
+⚡ I believe consistency beats talent, and I code every day to get better 🚀💻
 
 
 # 💻 Tech Stack:
