@@ -6,8 +6,8 @@
 💬 JavaScript, React, backend development, MongoDB, Git/GitHub, and project structuring.<br>
 ⚡ I believe consistency beats talent, and I code every day to get better 🚀💻
 
-🌐 Socials:
-[LinkedIn](https://linkedin.com/in/Nikshit Joshi) email
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nikshit Joshi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kingjoshi27032@gmail.com)
 
 
 # 💻 Tech Stack:
